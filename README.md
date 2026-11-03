@@ -7,7 +7,7 @@
 ### Internship:
 
 - 株式会社TOKIUM
-- TIS インテック 開発体感セミナー
+- TISI開発セミナー
 
 ### Projects:
 
