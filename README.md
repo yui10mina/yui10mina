@@ -11,13 +11,9 @@
 
 ### Projects:
 
-- [INIAD AI Chat Enhanced](https://github.com/yui10mina/iniad-ai-chat-enhanced)：講義資料をもとに AI へ質問できるチャットアプリ（Electron / MCP）
+- [INIAD AI Chat Enhanced](https://github.com/yui10mina/iniad-ai-chat-enhanced)：講義資料をもとに AI へ質問できるチャットアプリ。AI と大学サイトをつなぐ MCP クライアントとツールを実装（Electron / MCP）
+- INIAD MOOCs MCP Server：大学の授業サイト（INIAD MOOCs）の講義資料を、Claude などの AI から検索できる MCP サーバー（開発中、Cloudflare Workers / D1 / Rust）
 - 仮想ペット見守りアプリ：高齢者向けの見守りアプリ（Android / Firebase）
-
-### MCP:
-
-- INIAD MOOCs MCP Server：大学の LMS の講義資料を Claude などの AI から検索できる MCP サーバー（開発中、Cloudflare Workers / D1 / Rust）
-- INIAD AI Chat Enhanced の MCP 連携：AI と大学サイトをつなぐ MCP クライアントとツールを実装
 
 ### Recent interests:
 
