@@ -11,7 +11,7 @@
 
 ### Projects:
 
-- [INIAD AI Chat Enhanced](https://github.com/s1F10240055/iniad-ai-chat-enhanced)：講義資料をもとに AI へ質問できるチャットアプリ（Electron / MCP）
+- [INIAD AI Chat Enhanced](https://github.com/yui10mina/iniad-ai-chat-enhanced)：講義資料をもとに AI へ質問できるチャットアプリ（Electron / MCP）
 - 仮想ペット見守りアプリ：高齢者向けの見守りアプリ（Android / Firebase）
 - INIAD MOOCs MCP Server：講義資料を AI から検索できる MCP サーバー（開発中）
 
